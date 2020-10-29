@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
+[![HitCount](http://hits.dwyl.com/Igoricardo/Igoricardo.svg)](http://hits.dwyl.com/Igoricardo/Igoricardo)
