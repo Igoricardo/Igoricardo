@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </a>
 
 ## Minhas Habilidades:
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style"max-width:100%;"></img>
+  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style"max-width:100%;" alt="Python" height="40" width="40"></img>
 
 
 ![Igor Ricardo | github stats](https://github-readme-stats.vercel.app/api?username=Igoricardo&show_icons=true&theme=radical)
