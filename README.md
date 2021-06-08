@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Meu Linkedln:
 <a heref="https://www.linkedin.com/in/igor-ricardo/" target="_blank">
-  <img align="center" alt="Igor Ricardo Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" stayle"max-width:100%;">
+  <img align="center" alt="Igor Ricardo Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style"max-width:100%;">
 </a>
+
+## Minhas Habilidades:
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style"max-width:100%;">
+
 
 ![Igor Ricardo | github stats](https://github-readme-stats.vercel.app/api?username=Igoricardo&show_icons=true&theme=radical)
