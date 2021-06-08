@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Igor Ricardo :family_man_girl:	
 
-## Bem vindo ao Meu GitHub! :vulcan_salute:	
+## Bem vindo ao meu Perfil! :vulcan_salute:	
 
 Atualmente atuo como estagiário em analista de suporte realizando atendimento a clientes por e-mail, tirando dúvidas e configurações dos softwares Web-Logis e Dispensário Eletrônico, introdução da Modelagem de dados dos softwares Web-Logis e Dispensário Eletrônico, consultas para os bancos de dados Postgre , MySQL e Oracle e treinamento na utilização do software Web-logis (Servidor para Dispensários Eletrônicos).
 
