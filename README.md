@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Bem vindo ao Meu GitHub! :vulcan_salute:	
+
+Atualmente atuo como estagiário em analista de suporte realizando atendimento a clientes por e-mail e tirando dúvidas e configurações dos softwares Web-Logis e Dispensário Eletrônico, introdução da Modelagem de dados dos softwares Web-Logis e Dispensário Eletrônico, consultas para os bancos de dados Postgre , MySQL e Oracle e treinamento na utilização do software Web-logis (Servidor para Dispensários Eletrônicos).
+
 ## Meu Linkedln:
 <a href="https://www.linkedin.com/in/igor-ricardo/" target="_blank">
   <img align="center" alt="Igor Ricardo Linkedin" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style"max-width:100%;">
@@ -20,15 +24,15 @@ Here are some ideas to get you started:
 
 ## Minhas Habilidades:
 <a href="#" target="_blank">
-  <img align="center" alt="Igor Ricardo Linkedin" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style"max-width:100%;">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style"max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-  <img align="center" alt="Igor Ricardo Linkedin" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" style"max-width:100%;">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" style"max-width:100%;">
 </a>
 
 <a href="#" target="_blank">
-  <img align="center" alt="Igor Ricardo Linkedin" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style"max-width:100%;">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style"max-width:100%;">
 </a>
 
 </br>
