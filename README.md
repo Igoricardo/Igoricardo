@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a heref="https://www.linkedin.com/in/igor-ricardo/" target="_blank">
+  <img align="center" alt="Igor Ricardo Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" stayle"max-width:100%;">
+</a>
+
 ![Igor Ricardo | github stats](https://github-readme-stats.vercel.app/api?username=Igoricardo&show_icons=true&theme=radical)
